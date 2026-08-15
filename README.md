@@ -45,7 +45,8 @@ In HTML:
 2. Update `assets.json` and `ASSETS.md` so the manifest and docs match the asset tree.
 3. Commit the changes.
 4. Push `main` to GitHub.
-5. Use the jsDelivr URL pattern above to load the asset.
+5. Purge the jsDelivr cache for the manifest.
+6. Use the jsDelivr URL pattern above to load the asset.
 
 For a fixed version, use a git commit SHA instead of `main`:
 
@@ -56,6 +57,18 @@ https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@<commit-sha>/<asset-path>
 ## Cache Notes
 
 For this POC, `@main` is convenient because URLs stay simple. jsDelivr may cache files, so updates to an existing file path may not appear immediately. For reliable immutable URLs, publish with a commit SHA or use new filenames when replacing assets.
+
+After updating `assets.json`, purge the manifest cache:
+
+```bash
+curl -L "https://purge.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets.json"
+```
+
+Then verify the CDN manifest:
+
+```bash
+curl -L "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets.json"
+```
 
 ## Available Assets
 
