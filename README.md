@@ -12,27 +12,40 @@ Use jsDelivr with this GitHub repo:
 https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/<asset-path>
 ```
 
-Example:
+Overlay example:
 
 ```text
-https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/3d-icons-pink-sets/3d-calendar-reminder-bell-icon.png
+https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/overlay/3d-icons-pink-sets/3d-calendar-reminder-bell-icon.png
+```
+
+Frame example:
+
+```text
+https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/vintage-tarot-theSun.png
 ```
 
 In HTML:
 
 ```html
 <img
-  src="https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/3d-icons-pink-sets/3d-calendar-reminder-bell-icon.png"
+  src="https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/overlay/3d-icons-pink-sets/3d-calendar-reminder-bell-icon.png"
   alt=""
 />
 ```
 
+## Folder Structure
+
+- `assets/overlay/` contains transparent overlay/sticker image collections.
+- `assets/frames/` contains frame image assets.
+- `temp/` contains working files and should not be used by CDN consumers.
+
 ## How To Publish
 
-1. Add image files under `assets/`.
-2. Commit the changes.
-3. Push `main` to GitHub.
-4. Use the jsDelivr URL pattern above to load the asset.
+1. Add image files under `assets/overlay/` or `assets/frames/`.
+2. Update `assets.json` and `ASSETS.md` so the manifest and docs match the asset tree.
+3. Commit the changes.
+4. Push `main` to GitHub.
+5. Use the jsDelivr URL pattern above to load the asset.
 
 For a fixed version, use a git commit SHA instead of `main`:
 
