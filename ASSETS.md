@@ -2,7 +2,7 @@
 
 Current CDN-eligible images live under `assets/`.
 
-- Total image files: 1,078
+- Total image files: 1,144
 - Formats: PNG and WebP
 - CDN base URL: `https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/`
 - Manifest: `https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets.json`
@@ -37,7 +37,7 @@ Current CDN-eligible images live under `assets/`.
 | `assets/overlay/communication-icons-social-media-sets/` | 12 |
 | `assets/overlay/ester-collection/` | 636 |
 | `assets/overlay/Explore the charm of small handcarved wooden animal figurines/` | 9 |
-| `assets/frames/` | 25 |
+| `assets/frames/` | 91 |
 | `assets/overlay/kawaii-food/` | 140 |
 | `assets/overlay/sunflowers/` | 8 |
 | `assets/overlay/y2k-hologram/` | 21 |
@@ -50,7 +50,7 @@ assets/overlay/3d-hand-sets/ hand Holding Phone 1.png
 assets/overlay/3d-icons-pink-sets/3d-calendar-reminder-bell-icon.png
 assets/overlay/Celestial-dream/glossy-pastel-star-celestial-sticker.webp
 assets/overlay/kawaii-food/webp-1024-animal-food-set-3/kawaii-cookie-sticker.webp
-assets/frames/vintage-tarot-theSun.png
+assets/frames/autumn-leaves-and-sunflowers-top-border.png
 ```
 
 Convert any asset path into a CDN URL by adding it after the CDN base URL.

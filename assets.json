@@ -2,8 +2,8 @@
   "name": "poc-assets-lib-cdn",
   "description": "POC image asset manifest for GitHub/jsDelivr CDN usage.",
   "cdnBase": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/",
-  "generatedAt": "2026-08-15T11:24:22.616Z",
-  "total": 1078,
+  "generatedAt": "2026-08-15T17:32:15.717Z",
+  "total": 1144,
   "formats": [
     "png",
     "webp"
@@ -30,18 +30,66 @@
     "communication-icons-social-media-sets": 12,
     "ester-collection": 636,
     "Explore the charm of small handcarved wooden animal figurines": 9,
-    "frames": 25,
+    "frames": 91,
     "kawaii-food": 140,
     "sunflowers": 8,
     "y2k-hologram": 21
   },
   "assets": [
     {
+      "id": "frames-autumn-leaves-and-sunflowers-top-border",
+      "path": "assets/frames/autumn-leaves-and-sunflowers-top-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/autumn-leaves-and-sunflowers-top-border.png",
+      "collection": "frames",
+      "filename": "autumn-leaves-and-sunflowers-top-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-autumn-maple-leaves-diagonal-corner-border",
+      "path": "assets/frames/autumn-maple-leaves-diagonal-corner-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/autumn-maple-leaves-diagonal-corner-border.png",
+      "collection": "frames",
+      "filename": "autumn-maple-leaves-diagonal-corner-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-back-to-school-supplies-and-autumn-leaves-border",
+      "path": "assets/frames/back-to-school-supplies-and-autumn-leaves-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/back-to-school-supplies-and-autumn-leaves-border.png",
+      "collection": "frames",
+      "filename": "back-to-school-supplies-and-autumn-leaves-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-beach-sand-and-starfish-bottom-border-template",
+      "path": "assets/frames/beach-sand-and-starfish-bottom-border-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/beach-sand-and-starfish-bottom-border-template.png",
+      "collection": "frames",
+      "filename": "beach-sand-and-starfish-bottom-border-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-birthday-confetti-and-gift-boxes-border-template",
+      "path": "assets/frames/birthday-confetti-and-gift-boxes-border-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/birthday-confetti-and-gift-boxes-border-template.png",
+      "collection": "frames",
+      "filename": "birthday-confetti-and-gift-boxes-border-template.png",
+      "extension": "png"
+    },
+    {
       "id": "frames-blue-newspaper-butterfly-star-papercutout",
       "path": "assets/frames/blue-newspaper-butterfly-star-papercutout.png",
       "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/blue-newspaper-butterfly-star-papercutout.png",
       "collection": "frames",
       "filename": "blue-newspaper-butterfly-star-papercutout.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-blue-ocean-waves-and-sea-elements-frame-border",
+      "path": "assets/frames/blue-ocean-waves-and-sea-elements-frame-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/blue-ocean-waves-and-sea-elements-frame-border.png",
+      "collection": "frames",
+      "filename": "blue-ocean-waves-and-sea-elements-frame-border.png",
       "extension": "png"
     },
     {
@@ -61,6 +109,126 @@
       "extension": "png"
     },
     {
+      "id": "frames-blue-theatre-curtains-top-and-bottom-border",
+      "path": "assets/frames/blue-theatre-curtains-top-and-bottom-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/blue-theatre-curtains-top-and-bottom-border.png",
+      "collection": "frames",
+      "filename": "blue-theatre-curtains-top-and-bottom-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-botanical-wildflower-and-fern-oval-frame-template",
+      "path": "assets/frames/botanical-wildflower-and-fern-oval-frame-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/botanical-wildflower-and-fern-oval-frame-template.png",
+      "collection": "frames",
+      "filename": "botanical-wildflower-and-fern-oval-frame-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-chinese-hanging-red-lanterns-vertical-border",
+      "path": "assets/frames/chinese-hanging-red-lanterns-vertical-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/chinese-hanging-red-lanterns-vertical-border.png",
+      "collection": "frames",
+      "filename": "chinese-hanging-red-lanterns-vertical-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-chinese-new-year-gold-pattern-border-frame",
+      "path": "assets/frames/chinese-new-year-gold-pattern-border-frame.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/chinese-new-year-gold-pattern-border-frame.png",
+      "collection": "frames",
+      "filename": "chinese-new-year-gold-pattern-border-frame.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-chinese-new-year-lion-dance-kids-border",
+      "path": "assets/frames/chinese-new-year-lion-dance-kids-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/chinese-new-year-lion-dance-kids-border.png",
+      "collection": "frames",
+      "filename": "chinese-new-year-lion-dance-kids-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-chinese-new-year-red-lanterns-top-border-template",
+      "path": "assets/frames/chinese-new-year-red-lanterns-top-border-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/chinese-new-year-red-lanterns-top-border-template.png",
+      "collection": "frames",
+      "filename": "chinese-new-year-red-lanterns-top-border-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-chinese-new-year-red-wave-corner-border",
+      "path": "assets/frames/chinese-new-year-red-wave-corner-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/chinese-new-year-red-wave-corner-border.png",
+      "collection": "frames",
+      "filename": "chinese-new-year-red-wave-corner-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-chinese-new-year-string-lanterns-border",
+      "path": "assets/frames/chinese-new-year-string-lanterns-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/chinese-new-year-string-lanterns-border.png",
+      "collection": "frames",
+      "filename": "chinese-new-year-string-lanterns-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-chinese-plum-blossom-branch-cloud-border",
+      "path": "assets/frames/chinese-plum-blossom-branch-cloud-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/chinese-plum-blossom-branch-cloud-border.png",
+      "collection": "frames",
+      "filename": "chinese-plum-blossom-branch-cloud-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-christmas-baubles-hanging-lights-border-template",
+      "path": "assets/frames/christmas-baubles-hanging-lights-border-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/christmas-baubles-hanging-lights-border-template.png",
+      "collection": "frames",
+      "filename": "christmas-baubles-hanging-lights-border-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-christmas-trees-and-nordic-pattern-border",
+      "path": "assets/frames/christmas-trees-and-nordic-pattern-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/christmas-trees-and-nordic-pattern-border.png",
+      "collection": "frames",
+      "filename": "christmas-trees-and-nordic-pattern-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-cute-colorful-birds-on-branch-top-border",
+      "path": "assets/frames/cute-colorful-birds-on-branch-top-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/cute-colorful-birds-on-branch-top-border.png",
+      "collection": "frames",
+      "filename": "cute-colorful-birds-on-branch-top-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-dense-tropical-jungle-leaves-bottom-border",
+      "path": "assets/frames/dense-tropical-jungle-leaves-bottom-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/dense-tropical-jungle-leaves-bottom-border.png",
+      "collection": "frames",
+      "filename": "dense-tropical-jungle-leaves-bottom-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-fall-autumn-leaves-bottom-and-top-border",
+      "path": "assets/frames/fall-autumn-leaves-bottom-and-top-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/fall-autumn-leaves-bottom-and-top-border.png",
+      "collection": "frames",
+      "filename": "fall-autumn-leaves-bottom-and-top-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-fall-autumn-trees-landscape-bottom-border",
+      "path": "assets/frames/fall-autumn-trees-landscape-bottom-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/fall-autumn-trees-landscape-bottom-border.png",
+      "collection": "frames",
+      "filename": "fall-autumn-trees-landscape-bottom-border.png",
+      "extension": "png"
+    },
+    {
       "id": "frames-forest-branch-top-right",
       "path": "assets/frames/forest-branch-top-right.png",
       "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/forest-branch-top-right.png",
@@ -74,6 +242,150 @@
       "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/forest-branch-wall-rainy.png",
       "collection": "frames",
       "filename": "forest-branch-wall-rainy.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-gold-curve-and-balloon-party-border",
+      "path": "assets/frames/gold-curve-and-balloon-party-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/gold-curve-and-balloon-party-border.png",
+      "collection": "frames",
+      "filename": "gold-curve-and-balloon-party-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-gold-luxury-curtains-stage-border-frame",
+      "path": "assets/frames/gold-luxury-curtains-stage-border-frame.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/gold-luxury-curtains-stage-border-frame.png",
+      "collection": "frames",
+      "filename": "gold-luxury-curtains-stage-border-frame.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-gold-wave-and-hbd-birthday-flag-border",
+      "path": "assets/frames/gold-wave-and-hbd-birthday-flag-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/gold-wave-and-hbd-birthday-flag-border.png",
+      "collection": "frames",
+      "filename": "gold-wave-and-hbd-birthday-flag-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-green-mountain-range-landscape-bottom-border",
+      "path": "assets/frames/green-mountain-range-landscape-bottom-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/green-mountain-range-landscape-bottom-border.png",
+      "collection": "frames",
+      "filename": "green-mountain-range-landscape-bottom-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-green-valley-river-landscape-scenery-background",
+      "path": "assets/frames/green-valley-river-landscape-scenery-background.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/green-valley-river-landscape-scenery-background.png",
+      "collection": "frames",
+      "filename": "green-valley-river-landscape-scenery-background.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-hand-drawn-green-tree-hill-landscape-bottom-border",
+      "path": "assets/frames/hand-drawn-green-tree-hill-landscape-bottom-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/hand-drawn-green-tree-hill-landscape-bottom-border.png",
+      "collection": "frames",
+      "filename": "hand-drawn-green-tree-hill-landscape-bottom-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-happy-birthday-balloons-and-banner-top-border",
+      "path": "assets/frames/happy-birthday-balloons-and-banner-top-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/happy-birthday-balloons-and-banner-top-border.png",
+      "collection": "frames",
+      "filename": "happy-birthday-balloons-and-banner-top-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-happy-birthday-banner-and-birthday-cake-border",
+      "path": "assets/frames/happy-birthday-banner-and-birthday-cake-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/happy-birthday-banner-and-birthday-cake-border.png",
+      "collection": "frames",
+      "filename": "happy-birthday-banner-and-birthday-cake-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-happy-birthday-bunting-flags-top-border",
+      "path": "assets/frames/happy-birthday-bunting-flags-top-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/happy-birthday-bunting-flags-top-border.png",
+      "collection": "frames",
+      "filename": "happy-birthday-bunting-flags-top-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-happy-valentines-day-pink-hearts-border",
+      "path": "assets/frames/happy-valentines-day-pink-hearts-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/happy-valentines-day-pink-hearts-border.png",
+      "collection": "frames",
+      "filename": "happy-valentines-day-pink-hearts-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-lunar-new-year-hanging-lanterns-corner-border",
+      "path": "assets/frames/lunar-new-year-hanging-lanterns-corner-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/lunar-new-year-hanging-lanterns-corner-border.png",
+      "collection": "frames",
+      "filename": "lunar-new-year-hanging-lanterns-corner-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-lunar-new-year-red-fan-corners-border",
+      "path": "assets/frames/lunar-new-year-red-fan-corners-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/lunar-new-year-red-fan-corners-border.png",
+      "collection": "frames",
+      "filename": "lunar-new-year-red-fan-corners-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-lush-green-leaves-and-foliage-full-frame-border",
+      "path": "assets/frames/lush-green-leaves-and-foliage-full-frame-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/lush-green-leaves-and-foliage-full-frame-border.png",
+      "collection": "frames",
+      "filename": "lush-green-leaves-and-foliage-full-frame-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-merry-christmas-banner-and-holly-leaves-border",
+      "path": "assets/frames/merry-christmas-banner-and-holly-leaves-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/merry-christmas-banner-and-holly-leaves-border.png",
+      "collection": "frames",
+      "filename": "merry-christmas-banner-and-holly-leaves-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-merry-christmas-text-with-fairy-lights-and-fir-branches",
+      "path": "assets/frames/merry-christmas-text-with-fairy-lights-and-fir-branches.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/merry-christmas-text-with-fairy-lights-and-fir-branches.png",
+      "collection": "frames",
+      "filename": "merry-christmas-text-with-fairy-lights-and-fir-branches.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-ocean-water-surface-bottom-scenery-background",
+      "path": "assets/frames/ocean-water-surface-bottom-scenery-background.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/ocean-water-surface-bottom-scenery-background.png",
+      "collection": "frames",
+      "filename": "ocean-water-surface-bottom-scenery-background.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-party-bunting-flags-top-border-template",
+      "path": "assets/frames/party-bunting-flags-top-border-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/party-bunting-flags-top-border-template.png",
+      "collection": "frames",
+      "filename": "party-bunting-flags-top-border-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-pastel-party-bunting-flags-top-border",
+      "path": "assets/frames/pastel-party-bunting-flags-top-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/pastel-party-bunting-flags-top-border.png",
+      "collection": "frames",
+      "filename": "pastel-party-bunting-flags-top-border.png",
       "extension": "png"
     },
     {
@@ -93,11 +405,195 @@
       "extension": "png"
     },
     {
+      "id": "frames-red-curtain-stage-frame-template",
+      "path": "assets/frames/red-curtain-stage-frame-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/red-curtain-stage-frame-template.png",
+      "collection": "frames",
+      "filename": "red-curtain-stage-frame-template.png",
+      "extension": "png"
+    },
+    {
       "id": "frames-red-curve-cloud-japan-style",
       "path": "assets/frames/red-curve-cloud-japan-style.png",
       "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/red-curve-cloud-japan-style.png",
       "collection": "frames",
       "filename": "red-curve-cloud-japan-style.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-red-stage-valance-curtain-top-border",
+      "path": "assets/frames/red-stage-valance-curtain-top-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/red-stage-valance-curtain-top-border.png",
+      "collection": "frames",
+      "filename": "red-stage-valance-curtain-top-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-red-theatre-curtains-page-border-template",
+      "path": "assets/frames/red-theatre-curtains-page-border-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/red-theatre-curtains-page-border-template.png",
+      "collection": "frames",
+      "filename": "red-theatre-curtains-page-border-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-red-valance-curtain-with-chinese-lanterns-border",
+      "path": "assets/frames/red-valance-curtain-with-chinese-lanterns-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/red-valance-curtain-with-chinese-lanterns-border.png",
+      "collection": "frames",
+      "filename": "red-valance-curtain-with-chinese-lanterns-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-red-velvet-curtain-grand-stage-border",
+      "path": "assets/frames/red-velvet-curtain-grand-stage-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/red-velvet-curtain-grand-stage-border.png",
+      "collection": "frames",
+      "filename": "red-velvet-curtain-grand-stage-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-santa-claus-with-gifts-christmas-frame-template",
+      "path": "assets/frames/santa-claus-with-gifts-christmas-frame-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/santa-claus-with-gifts-christmas-frame-template.png",
+      "collection": "frames",
+      "filename": "santa-claus-with-gifts-christmas-frame-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-september-autumn-pumpkins-harvest-border",
+      "path": "assets/frames/september-autumn-pumpkins-harvest-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/september-autumn-pumpkins-harvest-border.png",
+      "collection": "frames",
+      "filename": "september-autumn-pumpkins-harvest-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-snowman-and-pine-trees-winter-snow-border",
+      "path": "assets/frames/snowman-and-pine-trees-winter-snow-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/snowman-and-pine-trees-winter-snow-border.png",
+      "collection": "frames",
+      "filename": "snowman-and-pine-trees-winter-snow-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-snowman-with-snow-winter-holiday-border",
+      "path": "assets/frames/snowman-with-snow-winter-holiday-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/snowman-with-snow-winter-holiday-border.png",
+      "collection": "frames",
+      "filename": "snowman-with-snow-winter-holiday-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-spring-grass-and-pink-flowers-bottom-border",
+      "path": "assets/frames/spring-grass-and-pink-flowers-bottom-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/spring-grass-and-pink-flowers-bottom-border.png",
+      "collection": "frames",
+      "filename": "spring-grass-and-pink-flowers-bottom-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-summer-beach-palm-tree-and-sun-frame-border",
+      "path": "assets/frames/summer-beach-palm-tree-and-sun-frame-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/summer-beach-palm-tree-and-sun-frame-border.png",
+      "collection": "frames",
+      "filename": "summer-beach-palm-tree-and-sun-frame-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-tropical-island-with-palm-trees-ocean-border",
+      "path": "assets/frames/tropical-island-with-palm-trees-ocean-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/tropical-island-with-palm-trees-ocean-border.png",
+      "collection": "frames",
+      "filename": "tropical-island-with-palm-trees-ocean-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-tropical-monstera-leaves-minimalist-corner-border",
+      "path": "assets/frames/tropical-monstera-leaves-minimalist-corner-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/tropical-monstera-leaves-minimalist-corner-border.png",
+      "collection": "frames",
+      "filename": "tropical-monstera-leaves-minimalist-corner-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-tropical-palm-fronds-top-and-bottom-border",
+      "path": "assets/frames/tropical-palm-fronds-top-and-bottom-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/tropical-palm-fronds-top-and-bottom-border.png",
+      "collection": "frames",
+      "filename": "tropical-palm-fronds-top-and-bottom-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-tropical-palm-leaves-border-frame-template",
+      "path": "assets/frames/tropical-palm-leaves-border-frame-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/tropical-palm-leaves-border-frame-template.png",
+      "collection": "frames",
+      "filename": "tropical-palm-leaves-border-frame-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-tropical-shells-corals-and-flowers-full-frame-border",
+      "path": "assets/frames/tropical-shells-corals-and-flowers-full-frame-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/tropical-shells-corals-and-flowers-full-frame-border.png",
+      "collection": "frames",
+      "filename": "tropical-shells-corals-and-flowers-full-frame-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-tropical-summer-fruits-shells-and-crabs-border",
+      "path": "assets/frames/tropical-summer-fruits-shells-and-crabs-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/tropical-summer-fruits-shells-and-crabs-border.png",
+      "collection": "frames",
+      "filename": "tropical-summer-fruits-shells-and-crabs-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-tropical-vines-and-leaves-diagonal-corner-border",
+      "path": "assets/frames/tropical-vines-and-leaves-diagonal-corner-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/tropical-vines-and-leaves-diagonal-corner-border.png",
+      "collection": "frames",
+      "filename": "tropical-vines-and-leaves-diagonal-corner-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-valentines-day-hanging-heart-garland-border",
+      "path": "assets/frames/valentines-day-hanging-heart-garland-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/valentines-day-hanging-heart-garland-border.png",
+      "collection": "frames",
+      "filename": "valentines-day-hanging-heart-garland-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-valentines-day-heart-pattern-full-frame",
+      "path": "assets/frames/valentines-day-heart-pattern-full-frame.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/valentines-day-heart-pattern-full-frame.png",
+      "collection": "frames",
+      "filename": "valentines-day-heart-pattern-full-frame.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-valentines-day-paper-airplane-and-hearts-border",
+      "path": "assets/frames/valentines-day-paper-airplane-and-hearts-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/valentines-day-paper-airplane-and-hearts-border.png",
+      "collection": "frames",
+      "filename": "valentines-day-paper-airplane-and-hearts-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-valentines-day-pink-hearts-bottom-border",
+      "path": "assets/frames/valentines-day-pink-hearts-bottom-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/valentines-day-pink-hearts-bottom-border.png",
+      "collection": "frames",
+      "filename": "valentines-day-pink-hearts-bottom-border.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-valentines-day-rose-bouquet-corner-border",
+      "path": "assets/frames/valentines-day-rose-bouquet-corner-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/valentines-day-rose-bouquet-corner-border.png",
+      "collection": "frames",
+      "filename": "valentines-day-rose-bouquet-corner-border.png",
       "extension": "png"
     },
     {
@@ -114,6 +610,14 @@
       "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/vintage-bamboo-sketch-asean.png",
       "collection": "frames",
       "filename": "vintage-bamboo-sketch-asean.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-vintage-botanical-shelf-with-potion-bottles-border",
+      "path": "assets/frames/vintage-botanical-shelf-with-potion-bottles-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/vintage-botanical-shelf-with-potion-bottles-border.png",
+      "collection": "frames",
+      "filename": "vintage-botanical-shelf-with-potion-bottles-border.png",
       "extension": "png"
     },
     {
@@ -226,6 +730,30 @@
       "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/vintage-vincent-frame.png",
       "collection": "frames",
       "filename": "vintage-vincent-frame.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-watercolor-flowers-stump-corner-border-template",
+      "path": "assets/frames/watercolor-flowers-stump-corner-border-template.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/watercolor-flowers-stump-corner-border-template.png",
+      "collection": "frames",
+      "filename": "watercolor-flowers-stump-corner-border-template.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-wildflower-meadow-grass-bottom-border-scene",
+      "path": "assets/frames/wildflower-meadow-grass-bottom-border-scene.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/wildflower-meadow-grass-bottom-border-scene.png",
+      "collection": "frames",
+      "filename": "wildflower-meadow-grass-bottom-border-scene.png",
+      "extension": "png"
+    },
+    {
+      "id": "frames-wooden-fence-with-sunflowers-and-flowers-border",
+      "path": "assets/frames/wooden-fence-with-sunflowers-and-flowers-border.png",
+      "url": "https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets/frames/wooden-fence-with-sunflowers-and-flowers-border.png",
+      "collection": "frames",
+      "filename": "wooden-fence-with-sunflowers-and-flowers-border.png",
       "extension": "png"
     },
     {
