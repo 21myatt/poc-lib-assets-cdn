@@ -5,6 +5,7 @@ Current CDN-eligible images live under `assets/`.
 - Total image files: 1,053
 - Formats: PNG and WebP
 - CDN base URL: `https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/`
+- Manifest: `https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets.json`
 
 ## Collections
 

@@ -48,3 +48,8 @@ For this POC, `@main` is convenient because URLs stay simple. jsDelivr may cache
 
 See [ASSETS.md](./ASSETS.md) for the current collection list and counts.
 
+For apps that need to list or search assets, use the generated manifest:
+
+```text
+https://cdn.jsdelivr.net/gh/21myatt/poc-lib-assets-cdn@main/assets.json
+```
